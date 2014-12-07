@@ -1,0 +1,5 @@
+com\services\bookrestservice\rest\RestBookService.class
+com\services\bookrestservice\client\BookPUClient.class
+com\services\bookrestservice\rest\JaxRsActivator.class
+com\services\bookrestservice\entity\BookList.class
+com\services\bookrestservice\entity\Book.class
